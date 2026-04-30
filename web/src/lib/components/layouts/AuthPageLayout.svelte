@@ -30,7 +30,7 @@
       <CardHeader class="mt-6">
         <VStack>
           <Logo variant="icon" size="giant" />
-          <Heading size="large" class="font-semibold" color="primary" tag="h1">Equal</Heading>
+          <Heading size="large" class="font-semibold" color="primary" tag="h1">{title}</Heading>
         </VStack>
       </CardHeader>
     {/if}
